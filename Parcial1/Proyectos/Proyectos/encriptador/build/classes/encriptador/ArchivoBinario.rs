@@ -1,0 +1,2 @@
+ArchivoBinario
+encriptador.Archivo
