@@ -7,7 +7,7 @@ package polinomios.polinomios2;
 
 /**
  *
- * @author Maryt
+ * @author fabi
  */
 public class Nodo {
     int coeficiente;

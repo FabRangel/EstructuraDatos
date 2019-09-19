@@ -11,13 +11,13 @@ import java.io.IOException;
 
 /**
  *
- * @author Maryt
+ * @author fabi
  */
 public class Main {
     public static void main (String [] args) throws FileNotFoundException, IOException{
     
      Archivo arch=new Archivo();
-       arch.muestraContenido("C:/Users/Maryt/Documents/prueba.txt");
+       arch.muestraContenido("/home/fabi/proyectos/polinomios.txt");
      }
         
     }

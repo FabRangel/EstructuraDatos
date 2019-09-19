@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Maryt
+ * @author fabi
  */
 public class Archivo {
      void muestraContenido(String archivo) throws FileNotFoundException, IOException {
